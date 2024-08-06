@@ -1,0 +1,2 @@
+git remote add origin https://github.com/srinivasangu/Food-munch-.git
+git push origin main
